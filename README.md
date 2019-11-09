@@ -1,0 +1,3 @@
+# Management-Program
+This program is used for manage your daily record with date and time
+By using of both this program we can store our daily data and also can retrive...
